@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/Algorithms-Practice)
+  - [SIEM Lab](https://github.com/Algorithms-Practice)
 
 <h2>📜 Certifications:</h2>
 
