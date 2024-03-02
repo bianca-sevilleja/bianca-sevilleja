@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM Lab](https://github.com/Algorithms-Practice)
+  - [SIEM Lab]
 
 <h2>📜 Certifications:</h2>
 
